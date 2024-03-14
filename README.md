@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">✨ Here you will find all my university and work projects<br>👩🏻‍🎓 I have a Bachelor's degree in Computer Science for Digital Communication (University of Milan, October 2023)<br>🎯 I'm a Computer Science master's student at the University of Milan<br>✉️ If you want to reach me:</p>
+<p align="left">
+  - ✨ Here you will find all my university and work projects<br>
+  - 👩🏻‍🎓 I have a Bachelor's degree in Computer Science for Digital Communication (University of Milan, October 2023)<br>
+  - 🎯 I'm a Computer Science master's student at the University of Milan<br>
+  - ✉️ If you want to reach me:</p>
 
 ###
 
