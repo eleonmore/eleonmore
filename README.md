@@ -1,12 +1,12 @@
-<h1 align="left">Hi, I'm Eleonora👩🏻‍💻🌻</h1>
+<h1 align="left">Hi, I'm Eleonora🌻</h1>
 
 ###
 
 
-- 🌱🍀 Here you will find all my university and work projects
-- 👩🏻‍🎓🍾 I have a Bachelor's degree in Computer Science for Digital Communication (University of Milan, October 2023)
-- 📚💻 I'm a Computer Science master's student at the University of Milan
-- ✉️📫 If you want to reach me:
+- 🌱 Here you will find all my university and work projects
+- 👩🏻‍🎓 I have a Bachelor's degree in Computer Science for Digital Communication (University of Milan, October 2023)
+- 👩🏻‍💻 I'm a Computer Science master's student at the University of Milan
+- 📫 If you want to reach me:
   - [eleonora.morelli1@studenti.unimi.it](mailto:eleonora.morelli1@studenti.unimi.it) or [eleon.morelli@gmail.com](mailto:eleon.morelli@gmail.com)
 
 
