@@ -2,6 +2,12 @@
 
 ###
 
+
+- 🪴 I’m currently studying at the university of Milan, department of computer science
+- 🥑 In october 2022 I graduated in Computer Science for Digital Communication (University of Milan)
+- 🥑 I graduated in Computer Science for Digital Communication (University of Milan, October 2022)
+- ✉️ How to reach me:
+    
 <p align="left">
   - ✨ Here you will find all my university and work projects<br>
   - 👩🏻‍🎓 I have a Bachelor's degree in Computer Science for Digital Communication (University of Milan, October 2023)<br>
