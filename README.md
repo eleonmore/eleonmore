@@ -7,7 +7,7 @@
 - 🎉 I have a Bachelor's degree in Computer Science for Digital Communication (University of Milan, October 2023)
 - 👩🏻‍💻 I'm a Computer Science master's student at the University of Milan
 - 📫 If you want to reach me:
-  - [eleonora.morelli1@studenti.unimi.it](mailto:eleonora.morelli1@studenti.unimi.it) or [eleon.morelli@gmail.com](mailto:eleon.morelli@gmail.com)
+  - [eleonora.morelli1@studenti.unimi.it](mailto:eleonora.morelli1@studenti.unimi.it) or [eleonora.morelli@mccsat.com](mailto:eleonora.morelli@mccsat.com)
 
 
 ###
